@@ -46,7 +46,7 @@ X-Button: (Cross Button)
 # Limitations
     - Script only recognizes one type of controller (Dualsense).
     - Script allows multiple controllers to control the same
-      Rooma where only one player at a time should be.
+      Roomba where only one player at a time should be allowed.
     - Calculations assume a Dualsense controller is used.
     - Item effects are hardcoded into main(), ideally it should
       be modularized so that we can easier change and add
