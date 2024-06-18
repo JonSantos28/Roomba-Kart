@@ -11,9 +11,7 @@ Script can be run on any machine or microcontroller (e.g., Pi)
 hosting either Windows or Linux, though note that the
 machine/microcontroller must be connected to the Roomba through
 a serial cable. The 'pySerial' and 'pygame' modules need to be
-installed in order to run this script. Only one controller may
-be connected at any one time, connecting more controllers after
-the 1st will not register any inputs from them.
+installed in order to run this script.
 
 Wheeldrops are used so that speed bumps in the track design can
 act as an analog to Mario Kart's item boxes, and as such any one
